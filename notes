@@ -2,6 +2,8 @@
 https://www.youtube.com/watch?v=lM4A6SBK1uQ&ab_channel=bladimir.dev.
 crear una cuenta de github
 crear un repositorio
+git remote add origin <direccion repositorio .git>
+
 
 
 
